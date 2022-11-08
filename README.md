@@ -1,6 +1,6 @@
 # BioPython: Bio.motifs
 
-# Steven Langley, Elizabeth Boucher, Eric Park 
+# Eric Park, Steven Langley, Elizabeth Boucher
 
 # Cal Poly Humboldt, Biol 480 Bioinformatics
 
